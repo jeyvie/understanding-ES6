@@ -2,8 +2,8 @@
 
 * [ ] 1. 块级作用域
 * [ ] 2. 字符串和正则
-* [ ] 3. [函数](docs/function.md)
-* [ ] 4. Object
+* [x] 3. [函数](docs/3.function.md)
+* [x] 4. [Object](docs/4.object.md)
 * [ ] 5. 解构
 * [ ] 6. Symbol
 * [ ] 7. Set、Map
