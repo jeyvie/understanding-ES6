@@ -6,7 +6,7 @@
 * [x] 4. [Object](docs/4.object.md)
 * [ ] 5. 解构
 * [ ] 6. Symbol
-* [ ] 7. Set、Map
+* [x] 7. [Set、Map](docs/7.set_map.md)
 * [ ] 8. 迭代器和generator
 * [ ] 9. class
 * [ ] 10. 数组拓展方法
