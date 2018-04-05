@@ -7,7 +7,7 @@
 * [ ] 5. 解构
 * [ ] 6. Symbol
 * [x] 7. [Set、Map](docs/7.set_map.md)
-* [ ] 8. [迭代器和generator](docs/8.1 iterator & generator 初步介绍.md)
+* [ ] 8. [迭代器和generator](docs/8.1_iterator_generator初步介绍.md)
 * [ ] 9. class
 * [ ] 10. 数组拓展方法
 * [ ] 11. promise
