@@ -4,10 +4,10 @@
 * [ ] 2. 字符串和正则
 * [x] 3. [函数](docs/3.function.md)
 * [x] 4. [Object](docs/4.object.md)
-* [ ] 5. 解构
+* [x] 5. [解构](docs/5.destructuring.md)
 * [ ] 6. Symbol
 * [x] 7. [Set、Map](docs/7.set_map.md)
-* [ ] 8. [迭代器和generator](docs/8.1_iterator_generator初步介绍.md)
+* [x] 8. [迭代器和generator](docs/8.1_iterator_generator初步介绍.md)
 * [ ] 9. class
 * [ ] 10. 数组拓展方法
 * [ ] 11. promise
