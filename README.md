@@ -10,7 +10,7 @@
 * [x] 8. [迭代器和generator](docs/8.1_iterator_generator初步介绍.md)
 * [ ] 9. class
 * [ ] 10. 数组拓展方法
-* [ ] 11. promise
+* [x] 11. [promise](docs/11.Promise.md)
 * [ ] 12. proxies和reflection
 * [ ] 13. modules
 
