@@ -23,5 +23,5 @@
 * [ ] 10. 数组拓展方法
 * [x] 11. [promise](docs/11.Promise.md)
 * [ ] 12. proxies和reflection
-* [ ] 13. modules
+* [x] 13. [modules](docs/13.modulel.mds)
 
