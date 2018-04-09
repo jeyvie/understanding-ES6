@@ -20,7 +20,7 @@
 * [x] 7. [Set、Map](docs/7.set_map.md)
 * [x] 8. [迭代器和generator](docs/8.1_iterator_generator初步介绍.md)
 * [x] 9. [class](docs/9.class.md)
-* [ ] 10. 数组拓展方法
+* [ ] 10. [数组拓展](docs/10.数组拓展.md)
 * [x] 11. [promise](docs/11.Promise.md)
 * [ ] 12. proxies和reflection
 * [x] 13. [modules](docs/13.module.md)
