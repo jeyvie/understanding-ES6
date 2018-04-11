@@ -11,7 +11,7 @@
 
 ## 章节列表
 
-* [ ] 1. 块级作用域
+* [x] 1. [块级作用域](docs/1.块级作用域.md)
 * [ ] 2. 字符串和正则
 * [x] 3. [函数](docs/3.function.md)
 * [x] 4. [Object](docs/4.object.md)
