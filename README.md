@@ -22,6 +22,6 @@
 * [x] 9. [class](docs/9.class.md)
 * [x] 10. [数组拓展](docs/10.数组拓展.md)
 * [x] 11. [promise](docs/11.Promise.md)
-* [ ] 12. proxies和reflection
+* [x] 12. [proxies和reflection](docs/12.Proxy_Refection.md)
 * [x] 13. [modules](docs/13.module.md)
 
