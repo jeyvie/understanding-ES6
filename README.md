@@ -12,7 +12,7 @@
 ## 章节列表
 
 * [x] 1. [块级作用域](docs/1.块级作用域.md)
-* [ ] 2. 字符串和正则
+* [x] 2. [字符串和正则](docs/2.string_reg.md)
 * [x] 3. [函数](docs/3.function.md)
 * [x] 4. [Object](docs/4.object.md)
 * [x] 5. [解构](docs/5.destructuring.md)
