@@ -11,16 +11,16 @@
 
 ## 章节列表
 
-* [x] 1. [块级作用域](docs/1.块级作用域.md)
+* [x] 1. [块级作用域](docs/1.block_bindings.md)
 * [x] 2. [字符串和正则](docs/2.string_reg.md)
 * [x] 3. [函数](docs/3.function.md)
 * [x] 4. [Object](docs/4.object.md)
 * [x] 5. [解构](docs/5.destructuring.md)
 * [x] 6. [Symbol](docs/6.Symbol.md)
 * [x] 7. [Set、Map](docs/7.set_map.md)
-* [x] 8. [迭代器和generator](docs/8.1_iterator_generator初步介绍.md)
+* [x] 8. [迭代器和generator](docs/8.1_iterator_generator_base.md)
 * [x] 9. [class](docs/9.class.md)
-* [x] 10. [数组拓展](docs/10.数组拓展.md)
+* [x] 10. [数组拓展](docs/10.improved_array.md)
 * [x] 11. [promise](docs/11.Promise.md)
 * [x] 12. [proxies和reflection](docs/12.Proxy_Refection.md)
 * [x] 13. [modules](docs/13.module.md)
