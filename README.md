@@ -6,7 +6,7 @@
 
 ## 由来
 
-另外，这个系列文章也可以说是 [`Understanding ECMAScript 6`](https://github.com/nzakas/understandinges6) 的读书笔记，有兴趣的同学可以读读，它不仅介绍了 `ES6` 的新特性，而且介绍这新特性产生的原因。深入浅出，值得阅读！
+另外，这个系列文章也可以说是 [`Understanding ECMAScript 6`](https://github.com/nzakas/understandinges6) 的读书笔记，有兴趣的同学可以读读，它不只是介绍了 `ES6` 的新特性，更介绍这新特性产生的背景。来龙去脉，深入浅出，值得阅读！
 
 
 ## 章节列表
