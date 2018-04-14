@@ -8,6 +8,8 @@
 
 另外，这个系列文章也可以说是 [`Understanding ECMAScript 6`](https://github.com/nzakas/understandinges6) 的读书笔记，有兴趣的同学可以读读，它不只是介绍了 `ES6` 的新特性，更介绍这新特性产生的背景。来龙去脉，深入浅出，值得阅读！
 
+也可以先读读 [这什么要有ES6](https://github.com/jeyvie/thoughts/blob/master/docs/why_es6.md) 这篇文章，对 `ES6` 有个整体了解.
+
 
 ## 章节列表
 
